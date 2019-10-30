@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/steventhan/express-demo/issues"
   },
-  "homepage": "https://github.com/steventhan/express-demo#readme"
+  "homepage": "https://github.com/steventhan/express-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
